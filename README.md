@@ -29,7 +29,7 @@
 
 <img align="left" alt="HTML5" width="36px" src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS3" width="36px" src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" />
-<img align="left" alt="Java" width="36px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/java/java-ar21.svg" />
+<img align="left" alt="Java" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/java/java-original.svg" />
 <img align="left" alt="JavaScript" width="36px" src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" />
 <img align="left" alt="React" width="36px" src="https://devicon.dev/devicon.git/icons/react/react-original.svg" />
 <img align="left" alt="Python" width="36px" src="https://devicon.dev/devicon.git/icons/python/python-original.svg" />
