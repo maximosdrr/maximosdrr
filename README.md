@@ -50,7 +50,7 @@
 
   <img align="left" alt="maximosdrr GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=maximosdrr&show_icons=true&hide_border=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivillysg&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maximosdrr&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://hiran.me
 [instagram]: https://instagram.com/hiranjj
