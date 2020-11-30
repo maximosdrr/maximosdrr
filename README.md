@@ -60,6 +60,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maximosdrr&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
-[website]: https://hiran.me
+[website]: https://hirandev.me
 [instagram]: https://instagram.com/hiranjj
 [linkedin]: https://www.linkedin.com/in/hiran-farias-lima-junior-430b35ab/
