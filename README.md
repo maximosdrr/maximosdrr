@@ -21,7 +21,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-hiran.junior@arapiraca.ufal.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hiran.junior@arapiraca.ufal.br)](mailto:hiran.junior@arapiraca.ufal.br)<br />
 [![Gmail Badge](https://img.shields.io/badge/-maximosdrr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maximosdrr@gmail.com)](mailto:maximosdrr@gmail.com)
 
-[<img align="left" alt="hiranjj | Telegram"  src="https://img.shields.io/badge/-Telegram-1ca0f1?style=flat&labelColor=1ca0f1&logo=telegram&logoColor=white" />](https://t.me/hiranjj) <br /> <br />
+[<img align="left" alt="hiranjj | Telegram"  src="https://img.shields.io/badge/-Telegram-1ca0f1?logo=telegram&logoColor=white" />](https://t.me/hiranjj) <br /> <br />
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/hiran-farias-lima-junior-430b35ab/)
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/hiranjj/)
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />](https://api.whatsapp.com/send?phone=5579999030353&text=Olá,%20podemos%20conversar%20um%20pouco?) <br/>
