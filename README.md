@@ -14,7 +14,7 @@
 
 ### Connect with me:
 
-📫 Email: ***hiran.junior@arapiraca.ufal.br***<br />
+📫 Email: [![Gmail Badge](https://img.shields.io/badge/-hiran.junior@arapiraca.ufal.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hiran.junior@arapiraca.ufal.br)](mailto:hiran.junior@arapiraca.ufal.br)<br />
 📫 Secondary email: ***maximosdrr@gmail.com***<br />
 📱 Phone: **_+55 79 9903-0353_**<br />
 
