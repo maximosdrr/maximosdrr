@@ -23,7 +23,9 @@
 
 📱 Phone: **_+55 79 9903-0353_**<br />
 
-<br />
+## <br />
+
+---
 
 ### Languages and Tools:
 
