@@ -10,7 +10,7 @@
 - 🤝 I’m looking for help with: **_Frontend & design_**
 - 💬 Ask me about: **_Backend and Programming Logic_**
 - 😂 Fun facts: **_I love to draw and I'm a blue belt of jiu jitsu_**
-- 💻 My favorite programming languages: **_Javascript, Typescript, Python, C#, Java, Php_**
+- 💻 My favorite programming languages: **_Javascript, Typescript, Python, C#, Dart, Java, Php_**
 
 ### Connect with me:
 
