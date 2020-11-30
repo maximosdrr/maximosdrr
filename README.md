@@ -5,7 +5,6 @@
 
 ## I'm a Fullstack Developer!!
 
-<br/>
 - 🔭 I currently work with: **_Flutter, NestJs, ReactJS, React-Native, Laravel, Windows-Forms_** !
 - 🌱 I’m currently learning: **_Rust, Angular, WPF, AWS_**
 - 🤝 I’m looking for help with: **_Frontend & design_**
