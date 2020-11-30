@@ -25,8 +25,6 @@
 
 ## <br />
 
----
-
 ### Languages and Tools:
 
 <img align="left" alt="HTML5" width="36px" src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg" />
