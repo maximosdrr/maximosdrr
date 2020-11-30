@@ -49,7 +49,7 @@
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="maximosdrr GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=maximosdrr&show_icons=true&hide_border=true" />
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maximosdrr)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://hiran.me
 [instagram]: https://instagram.com/hiranjj
