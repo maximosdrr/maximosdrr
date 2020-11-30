@@ -27,21 +27,21 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="36px" src="https://devicon.dev/devicon.git/icons/java/java-original.svg" />
+<img align="left" alt="HTML5" width="36px" src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS3" width="36px" src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" />
 <img align="left" alt="Java" width="36px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/java/java-ar21.svg" />
-<img align="left" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Linux" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
-<img align="left" alt="Node.js" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="JavaScript" width="36px" src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" />
+<img align="left" alt="React" width="36px" src="https://devicon.dev/devicon.git/icons/react/react-original.svg" />
+<img align="left" alt="Python" width="36px" src="https://devicon.dev/devicon.git/icons/python/python-original.svg" />
+<img align="left" alt="CSharp" width="36px" src="https://devicon.dev/devicon.git/icons/csharp/csharp-original.svg" />
+<img align="left" alt="Node.js" width="36px" src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Flutter" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
 <img align="left" alt="SQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/firebase/firebase.png" />
-<img align="left" alt="MySQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="MySQL" width="36px" src="https://devicon.dev/devicon.git/icons/mysql/mysql-original.svg" />
 <img align="left" alt="MongoDB" width="36px" src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="Git" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Git" width="36px" src="https://devicon.dev/devicon.git/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="36px" src="https://devicon.dev/devicon.git/icons/github/github-original.svg" />
 
 <br />
 <br />
