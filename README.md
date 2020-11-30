@@ -1,6 +1,7 @@
-### Hi there, Hiran Junior [maximosdrr][https://hiran.me] 👋
+<h1 align="center">Hello There 😄, I'm Hiran Junior</h1>
+<h3 align="center">Full Stack Developer</h3>
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://hiran.me)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maximosdrr" alt="maximosdrr" /> </p>
 
 ## I'm a Fullstack Developer!!
 
