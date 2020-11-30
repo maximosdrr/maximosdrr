@@ -24,9 +24,7 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/hiran-farias-lima-junior-430b35ab/)
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/hiranjj/)
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />](https://api.whatsapp.com/send?phone=5579999030353&text=Olá,%20podemos%20conversar%20um%20pouco?)
-[<img align="left" alt="hiranjj | Telegram" width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/hiranjj)
-
-<br/>
+[<img align="left" alt="hiranjj | Telegram" width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/hiranjj)<br/>
 
 📱 Phone: **_+55 79 9903-0353_**<br />
 <br />
