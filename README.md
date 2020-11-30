@@ -12,6 +12,10 @@
 - 😂 Fun facts: **_I love to draw and I'm a blue belt of jiu jitsu_**
 - 💻 My favorite programming languages: **_Javascript, Typescript, Python, C#, Dart, Java, Php_**
 
+<br />
+
+---
+
 ### Connect with me:
 
 [![Gmail Badge](https://img.shields.io/badge/-hiran.junior@arapiraca.ufal.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hiran.junior@arapiraca.ufal.br)](mailto:hiran.junior@arapiraca.ufal.br)<br />
@@ -22,7 +26,6 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />](https://api.whatsapp.com/send?phone=5579999030353&text=Olá,%20podemos%20conversar%20um%20pouco?) <br/>
 
 📱 Phone: **_+55 79 9903-0353_**<br />
-<br />
 <br />
 
 ---
