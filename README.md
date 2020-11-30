@@ -14,8 +14,8 @@
 
 ### Connect with me:
 
-📫 Email: [![Gmail Badge](https://img.shields.io/badge/-hiran.junior@arapiraca.ufal.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hiran.junior@arapiraca.ufal.br)](mailto:hiran.junior@arapiraca.ufal.br)<br />
-📫 Secondary email: ***maximosdrr@gmail.com***<br />
+[![Gmail Badge](https://img.shields.io/badge/-hiran.junior@arapiraca.ufal.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hiran.junior@arapiraca.ufal.br)](mailto:hiran.junior@arapiraca.ufal.br)<br />
+[![Gmail Badge](https://img.shields.io/badge/-maximosdrr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maximosdrr@gmail.com)](mailto:maximosdrr@gmail.com)<br />
 📱 Phone: **_+55 79 9903-0353_**<br />
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/hiran-farias-lima-junior-430b35ab/)
