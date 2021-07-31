@@ -1,4 +1,4 @@
-## Oiii! Eu sou a Hiran Júnior
+## Hello There ! I'm Hiran Júnior
 
 <div>
     <a href="https://github.com/maximosdrr">
@@ -13,11 +13,11 @@
     <img align="center" alt="Hiran-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Hiran-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Hiran-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+    <img align="center" alt="Hiran-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+    <img align="center" alt="Hiran-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
     <img align="right" alt="Hiran-yoda" height="160" width="260" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9bc27292880429.5e569ff84e4d0.gif">
   </div>
     
-    ##
-   
   <div> 
     <a href="https://instagram.com/hiranjj" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    
@@ -25,6 +25,5 @@
     <a href = "mailto:hiran.farias@luby.software"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/hiran-farias-lima-junior-430b35ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    
-    ![Snake animation](https://github.com/maximosdrr/maximosdrr/blob/output/github-contribution-grid-snake.svg)
    
   </div>
